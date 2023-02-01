@@ -1,0 +1,41 @@
+body{
+    background-image: url(https://th.bing.com/th/id/R.68714b9e42768c779549fc59a2aacb4b?rik=vQ1L7qMf2wU1Eg&riu=http%3a%2f%2fwww.bypeople.com%2fwp-content%2fuploads%2f2014%2f05%2flight-live-background-css.jpg&ehk=f3DN275nadLF99LPBEykgtmBNK7iTJ0wfdyaT0228O0%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#body{
+    text-align: center;
+    color:navy;
+}
+
+#answer{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+h1{
+    text-shadow: black;
+    font-size: 50px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+button{
+    padding: 10px;
+    background-color: rgb(219, 219, 219);
+    border-color: rgb(219, 219, 219);
+}
+
+button:hover{
+    background-color: #000000;
+    border-color: #000000;
+    color: white;
+    padding: 12px;
+}
+
+hr{
+    visibility: hidden;
+}
